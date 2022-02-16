@@ -17,7 +17,7 @@
 */
 
 #include <directfb.h>
-#include <directfb_strings.h>
+#include <directfb/directfb_strings.h>
 #include <directfb_util.h>
 
 /**********************************************************************************************************************/
